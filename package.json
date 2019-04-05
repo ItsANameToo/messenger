@@ -1,0 +1,23 @@
+{
+  "name": "@itsanametoo/messenger",
+  "version": "1.0.0",
+  "description": "Sends you a message when a vote, unvote or missed block occurs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsANameToo/messenger.git"
+  },
+  "author": "ItsANameToo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsANameToo/messenger/issues"
+  },
+  "homepage": "https://github.com/ItsANameToo/messenger#readme",
+  "dependencies": {
+    "@arkecosystem/core-container": "^2.2.0",
+    "axios": "^0.18.0"
+  }
+}
