@@ -1,6 +1,6 @@
 {
   "name": "@itsanametoo/messenger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sends you a message when a vote, unvote or missed block occurs",
   "main": "lib/index.js",
   "scripts": {
